@@ -14,6 +14,7 @@ namespace AzureTestDeploy.Pages
 
         public void OnGet()
         {
+            throw new Exception("This is a test exception");
         }
     }
 
