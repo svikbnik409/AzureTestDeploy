@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationInsightsResourceId>/subscriptions/82d2cd5f-7c64-45f0-9f4b-724038a46ace/resourceGroups/abc123123_group/providers/microsoft.insights/components/abc123123</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/82d2cd5f-7c64-45f0-9f4b-724038a46ace/resourceGroups/abc123123_group/providers/microsoft.insights/components/az-course-app</ApplicationInsightsResourceId>
     <UserSecretsId>91bee84b-b646-42f0-95a1-7872f6c790ee</UserSecretsId>
   </PropertyGroup>
 
